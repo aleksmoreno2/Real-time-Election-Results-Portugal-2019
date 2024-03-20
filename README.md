@@ -38,14 +38,14 @@ El tipo de datos en cada atributo del conjunto de datos final sobre los resultad
 Desarrollo en el jupyter notebook
 
 ## OBJETIVO DEL MODELO DE APRENDIZAJE AUTOMATICO
-Determinar las características o variables que influyen en el númer final de parlamentarios electos a nivel de distrito/nacional (FinalMandates) con el fin de establecer un modelo que sea capaz de predecir este valor.
+Determinar las características o variables que influyen en el número final de parlamentarios electos a nivel de distrito/nacional (FinalMandates) con el fin de establecer un modelo que sea capaz de predecir este valor.
 
 ## MOTIVACIÓN DE ESTRATEGIA ML-OPS 
 El conjunto de fenómenos que rodean e influyen en los resultados electores son determinantes para entender el comportamiento del evento electoral de Portugal por lo que el análisis númerico y esadistico a través de un modelo de aprendizaje automatico lleva a la capacidad significativa de anticipación de los resultados finales.
 La disposición de los datos,tanto historico como en tiempo real, da la oportunidad de crear un modelo que explique este fenómeno por lo que elaborar una modelo ML-Ops que permita automatizar el ciclo de vida del modelo que permita entrenar, desplegar y retroalimentar el mismo será decisivo para extender predicciones que se acoplen al comportamiento dinamico del evento.
 
 ## ARQUITECTURA DEL MODELO ML-OPS
-
+![MLOPS flow](https://github.com/aleksmoreno2/Real-time-Election-Results-Portugal-2019/assets/91718364/ea48238e-9590-48d3-8b0a-1aa0ca2a90b8)
 
 ## MODELO DE PREDICCIÓN
 Como parte de esta primera fase de desarrollo del proyecto se evaluarán los siguientes algoritmos:

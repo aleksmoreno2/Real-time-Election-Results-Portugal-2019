@@ -52,6 +52,7 @@ Como parte de esta primera fase de desarrollo del proyecto se evaluarán los sig
 1. Linear regression
 2. Decision Tree
 3. Random Forest
+
 Con el fin de evaluar el rendimiento de los modelos de regresión lineal y determinar la relación entre las observaciones y los valores predichos se utilizaran las siguientes métricas:
 * Error Cuadrático Medio (RMSE): Cantidad de error que hay entre el valor predicho y un valor observado o conocido.
 * Coeficiente de determinación (R2): Medida de precisión del modelo. Cómo se ajusta el modelo de regresión a los datos reales.

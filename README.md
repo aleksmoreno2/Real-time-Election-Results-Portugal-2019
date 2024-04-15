@@ -34,7 +34,8 @@ El tipo de datos en cada atributo del conjunto de datos final sobre los resultad
 
 *Referencia: Moniz, N. (2019, December 5). Real-time 2019 Portuguese parliament election results dataset. arXiv.org. https://arxiv.org/abs/1912.08922*
 
-**Acerca de la pólitica en Portugal **
+**Acerca de la Pólitica en Portugal:**
+
 La política en Portugal opera como una república democrática representativa semipresidencial, multipartidaria y unitaria, en la que el Primer Ministro de Portugal es el jefe de gobierno y el Presidente de Portugal es el jefe de estado no ejecutivo, con varios poderes políticos importantes que ejercen a menudo. .[1] El poder ejecutivo lo ejerce el Gobierno, cuyo líder es el Primer Ministro. El poder legislativo reside principalmente en la Asamblea de la República (el parlamento portugués), aunque el gobierno también puede legislar sobre determinadas materias.[2] El poder judicial de Portugal es independiente del ejecutivo y del legislativo. El Presidente ejerce una especie de "poder moderador", que no se puede clasificar fácilmente en ninguno de los tres poderes tradicionales del gobierno.[1]
 
 Los gobiernos nacional y regional están dominados por dos partidos políticos, el Partido Socialista (PS), de centro izquierda, un partido socialdemócrata, y el Partido Socialdemócrata (PSD), de centro derecha y liberal-conservador.

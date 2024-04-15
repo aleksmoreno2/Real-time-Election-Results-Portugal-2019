@@ -8,7 +8,7 @@ Desarrollar, implementar y automatizar un modelo de aprendizaje automático usan
 
 **Acerca del Dataset:**
 Conjunto de datos que describe la evolución de los resultados de las elecciones parlamentarias portuguesas del 6 de octubre de 2019. Los datos abarcan un intervalo de tiempo de 4 horas y 25 minutos, en intervalos de 5 minutos, sobre los resultados de los 27 partidos involucrados en las elecciones. 
-El conjunto de datos está diseñado para tareas de modelado predictivo, principalmente centrado en tareas de pronóstico numéricom, regresión ordinal y clasificación.
+El conjunto de datos está diseñado para tareas de modelado predictivo, principalmente centrado en tareas de pronóstico numérico, regresión ordinal y clasificación.
 
 La Secretaria-Geral do Minist´erio da Administra¸c˜ao Interna (SGMAI) maneja los resultados de las elecciones procesos en Portugal. Estos resultados se publican en línea continuamente a medida que están disponibles. 
 El proceso general de comunicación/publicación de resultados es el siguiente:
@@ -33,6 +33,15 @@ El tipo de datos en cada atributo del conjunto de datos final sobre los resultad
 ![image](https://github.com/aleksmoreno2/Real-time-Election-Results-Portugal-2019/assets/91718364/0ae50493-d5e6-4897-9322-b1682049289d)
 
 *Referencia: Moniz, N. (2019, December 5). Real-time 2019 Portuguese parliament election results dataset. arXiv.org. https://arxiv.org/abs/1912.08922*
+
+**Acerca de la pólitica en Portugal **
+La política en Portugal opera como una república democrática representativa semipresidencial, multipartidaria y unitaria, en la que el Primer Ministro de Portugal es el jefe de gobierno y el Presidente de Portugal es el jefe de estado no ejecutivo, con varios poderes políticos importantes que ejercen a menudo. .[1] El poder ejecutivo lo ejerce el Gobierno, cuyo líder es el Primer Ministro. El poder legislativo reside principalmente en la Asamblea de la República (el parlamento portugués), aunque el gobierno también puede legislar sobre determinadas materias.[2] El poder judicial de Portugal es independiente del ejecutivo y del legislativo. El Presidente ejerce una especie de "poder moderador", que no se puede clasificar fácilmente en ninguno de los tres poderes tradicionales del gobierno.[1]
+
+Los gobiernos nacional y regional están dominados por dos partidos políticos, el Partido Socialista (PS), de centro izquierda, un partido socialdemócrata, y el Partido Socialdemócrata (PSD), de centro derecha y liberal-conservador.
+
+ Otros partidos con escaños en el parlamento son Chega, el Partido Comunista Portugués, el Bloque de Izquierda, el Partido Ecologista "Los Verdes", LIVRE y Personas-Animales-Naturaleza. Los comunistas y los verdes están en coalición como Coalición Democrática Unitaria.
+
+Referencia: https://en.wikipedia.org/wiki/Politics_of_Portugal
 
 ## ANÁLISIS EXPLORATORIO DE DATOS
 Desarrollo en el jupyter notebook
